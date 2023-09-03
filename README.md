@@ -6,4 +6,5 @@ FaceDetection Project is designed and developed using MATLAB.Its graphical user 
 5. Images folder include images from dataset taken from Kaggle website.
 6. This system can also detect faces in groupfie.
    <br>
-   ![Uploading image.png…]()
+   ![image](https://github.com/AyeshaMalikAyesha/FaceDetection/assets/142585571/155565ac-53ea-4476-9294-b3f753bb7a29)
+
