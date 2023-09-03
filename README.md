@@ -4,3 +4,4 @@ FaceDetection Project is designed and developed using MATLAB.Its graphical user 
 3. This system can also perform real-time face detection.
 4. Apart from face detection, system can also detect facial parts e.g eyes,nose,mouth etc.
 5. Images folder include images from dataset taken from Kaggle website.
+6. This system can also detect faces in groupfie.
